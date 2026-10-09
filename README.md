@@ -1,5 +1,3 @@
-
-
 # Test Repository
 
 Learning GitHub 🚀
